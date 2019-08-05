@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="Title_Hint">Title</string>
+    <string name="Price_Hint">Price</string>
+    <string name="Desc_Hint">Description</string>
+    <string name="todo">TODO</string>
+</resources>
